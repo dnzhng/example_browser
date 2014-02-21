@@ -111,4 +111,5 @@ public class BrowserModel {
     public URL getFavorite (String name) {
         return myFavorites.get(name);
     }
+    
 }
